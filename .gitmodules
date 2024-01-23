@@ -1,0 +1,15 @@
+[submodule "node_modules"]
+	path = node_modules
+	url = ./client
+[submodule "public"]
+	path = public
+	url = ./client
+[submodule "src"]
+	path = src
+	url = ./client
+[submodule "package-lock.json"]
+	path = package-lock.json
+	url = ./client
+[submodule "package.json"]
+	path = package.json
+	url = ./client
